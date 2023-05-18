@@ -20,7 +20,7 @@ const WhatsNew = () => (
         className='flex-[0.75px] flex justify-center flex-col'
       >
         <TypingText title="| Recent Project" />
-        <TitleText title={<>What's new about my project?</>} />
+        <TitleText title={<>What's about my skills?</>} />
         <div className='mt-[48px] flex flex-wrap justify-between gap-[24px]'>
           {newFeatures.map((feature) => (
             <NewFeatures

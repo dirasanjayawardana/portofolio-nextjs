@@ -12,12 +12,12 @@ export const exploreWorlds = [
   {
     id: 'world-3',
     imgUrl: '/planet-03.png',
-    title: 'Testimonials',
+    title: 'Skills',
   },
   {
     id: 'world-4',
     imgUrl: '/planet-04.png',
-    title: 'Portfolio',
+    title: 'Experience',
   },
   {
     id: 'world-5',
@@ -27,23 +27,23 @@ export const exploreWorlds = [
 ];
 
 export const startingFeatures = [
-  'Find a world that suits you and you want to enter',
-  'Enter the world by reading basmalah to be safe',
-  'No need to beat around the bush, just stay on the gas and have fun',
+  'Lampung University - Electrical Engineering - Sept 2021',
+  'Lampung University Science and Techlonogy Organization',
+  'The Best Graduate at the Engineering Faculty of Lampung University',
 ];
 
 export const newFeatures = [
   {
     imgUrl: '/vrpano.svg',
-    title: 'A new world',
+    title: 'Familiar With',
     subtitle:
-        'we have the latest update with new world for you to try never mind',
+        'Html, CSS, JavaScript, TailwindCSS, ReactJs, NextJs, NodeJs.',
   },
   {
     imgUrl: '/headset.svg',
-    title: 'More realistic',
+    title: 'Proficient In',
     subtitle:
-        'In the latest update, your eyes are narrow, making the world more realistic than ever',
+        'Power Electronics, Internet of Things, System Control, Microcontroller, AutoCAD, Matlab',
   },
 ];
 

@@ -21,7 +21,7 @@ const About = () => (
         variants={fadeIn('up', 'tween', 0.2, 1)}
         className="mt-[18px] font-normal sm:text-[32px] text-[20px] text-center text-secondary-white"
       >
-        <span className='font-extrabold text-white'>Lorem ipsum</span> dolor sit amet, consectetur adipisicing elit. Assumenda, velit at deleniti corrupti dolores veritatis delectus earum ratione nostrum iste ex odio nobis vero sequi <span className='font-extrabold text-white'>repudiandae facilis</span> libero id, voluptatum nesciunt omnis! Magni quia incidunt quam, maiores laudantium molestias <span className='font-extrabold text-white'>IP</span> provident autem porro commodi <span className='font-extrabold text-white'>animi</span> rem praesentium perspiciatis beatae officiis.
+        My name is<span className='font-extrabold text-white'> Dira Sanjaya Wardana</span>. I am graduated in electrical engineering with a concentration in Electrical Power Engineering.<span className='font-extrabold text-white'> I am proficiant with</span> power electronics, energy conversion, microcontroller programing, and electronic system design.<span className='font-extrabold text-white'> I never limiting</span> my self to learn other things, such as telecomunications, programing, data processing, and controlling.<span className='font-extrabold text-white'> I have good</span> leadership, great time management and excited with challenging job.
       </motion.p>
 
       <motion.img
